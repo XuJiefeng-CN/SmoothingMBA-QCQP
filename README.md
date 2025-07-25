@@ -8,7 +8,7 @@ $$\eqalign{
 
 where $Q_{i}\in 𝕊^{n}_{+}$, $q^{i}\in ℝ^{n}$, $i=0,1,\ldots,m$, $b\in ℝ^{m}$ and $\rho > 0$.
 The performance of *s*MBA is compared with CVX (version 2.2) using the SDPT3 solver (version 4.0).
-For further details, please refer to [[1]].
+For further details, please refer to our paper in [[1]].
 
 # Matlab source codes
 - **demo_QCQP.m**\
